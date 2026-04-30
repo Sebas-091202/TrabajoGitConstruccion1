@@ -1,0 +1,21 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package paquete;
+
+/**
+ *
+ * @author ASUS
+ */
+public class Ej03 {
+    public static void main(String[] args) {
+double x = 9.99;
+int xEntero = (int) x;
+double perdida = x - xEntero;
+System.out.println("x (double) = " + x);
+System.out.println("xEntero (int) = " + xEntero);
+System.out.println("perdida = " + perdida);
+    }
+
+}
