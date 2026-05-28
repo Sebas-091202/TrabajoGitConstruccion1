@@ -1,4 +1,3 @@
-package Informe1;
 
 public class OperadoresCombinados {
 	public static void main(String[] args) {

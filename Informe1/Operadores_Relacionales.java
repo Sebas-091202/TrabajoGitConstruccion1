@@ -1,4 +1,3 @@
-package Informe1;
 
 
 public class Operadores_Relacionales { 

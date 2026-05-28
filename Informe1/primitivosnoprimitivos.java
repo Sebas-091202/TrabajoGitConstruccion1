@@ -1,4 +1,4 @@
-package Informe1;
+
 public class primitivosnoprimitivos {
     public static void main(String[] args) {
     final int documento = 12345678;

@@ -1,4 +1,3 @@
-package Holamundo;
 
 public class Holamundo {
 
